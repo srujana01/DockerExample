@@ -16,7 +16,7 @@ public class App
     {
         System.out.println( "*****Task for deployment Engineer position*****" );
         
-        System.out.println("FilePath: "+args[0]);
+       /* System.out.println("FilePath: "+args[0]);
         
         File file = new File(args[0]);
         
@@ -34,6 +34,6 @@ public class App
 			}
 			br.close();
 			System.out.println(fileContent);
-		}
+		}*/
     }
 }
